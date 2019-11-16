@@ -5,7 +5,7 @@ using UnityEngine;
 
 
 
-public class ShootingScript : MonoBehaviour
+public class PrimaryFireShootingScript : MonoBehaviour
 {
 
 
